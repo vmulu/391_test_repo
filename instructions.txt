@@ -1,0 +1,13 @@
+In this repo I added the question.txt and random.txt. 
+
+Within these files I followed the correct commit stream that was need to 
+complete this assignment. 
+
+During this assignment I forked the intern-bootcamp-git repo and added my 
+feature branch. 
+
+This branch was used to make a PR request into the upstream repo that has now
+been closed. 
+
+The link to my forked repo is below. 
+https://github.com/vmulu/intern-bootcamp-git.git
